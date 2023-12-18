@@ -1,0 +1,8 @@
+.thisOne ul {
+        display: flex;
+        justify-content: space-between;
+        color: lightgray;
+        padding: 0;
+      }
+      
+  
